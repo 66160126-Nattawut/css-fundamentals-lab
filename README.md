@@ -17,4 +17,4 @@
 - git merge feature/css
 - git add README.md
 - git commit -m "รวบรวมคำสั่ง git"
-git push origin main
+- git push origin main
